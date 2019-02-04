@@ -3,7 +3,7 @@
 > A project for practicing with user input and multiple routes.
 
 This project covers two sections in the Practical JavaScript 2: Building Applications
-book: [Handling User Input](https://shawnr.gitbooks.io/practical-javascript-2-building-applications/handling-user-input/) and [Routing and URLs](https://shawnr.gitbooks.io/practical-javascript-2-building-applications/routing-urls/). These sections cover
+book: [Handling User Input](https://suwebdev.github.io/WATS-4000-gitbook/handling-user-input/) and [Routing and URLs](https://suwebdev.github.io/WATS-4000-gitbook/routing-urls/). These sections cover
 all of the skills and techniques we will be practicing in this project. Please
 refer to the text for additional instuctions and help completing the requirements
 defined below.
@@ -52,15 +52,13 @@ If you crave an extra challenge, please try these stretch goals:
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run serve
 
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
 **Note:** This application has been configured to build to the `docs/` directory. It can be served on GitHub Pages by setting GH Pages to serve from the `master` branch `docs/` directory.
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how Vue works, check out the [guide](https://cli.vuejs.org/guide/) and [docs for vue-loader](https://cli.vuejs.org/config/#css-loaderoptions).
