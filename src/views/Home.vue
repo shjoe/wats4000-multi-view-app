@@ -61,6 +61,7 @@ export default {
       if (
         this.username !== "" &&
         this.email !== "" &&
+        this.password.length > 0 &&
         this.password === this.passwordVerify
       ) {
         this.showForm = false;
